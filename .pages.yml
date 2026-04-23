@@ -1,0 +1,158 @@
+media: .
+
+content:
+  - name: website
+    label: Website
+    type: group
+    items:
+      - name: home
+        label: Home
+        type: file
+        path: index.html
+        format: code
+        options:
+          language: html
+
+      - name: motivation
+        label: Motivation
+        type: file
+        path: motivation.html
+        format: code
+        options:
+          language: html
+
+      - name: scientific-objectives
+        label: Scientific Objectives
+        type: file
+        path: scientific-objectives.html
+        format: code
+        options:
+          language: html
+
+      - name: infrastructure
+        label: Infrastructure
+        type: file
+        path: infrastructure.html
+        format: code
+        options:
+          language: html
+
+      - name: existing-instruments
+        label: Existing Instruments
+        type: file
+        path: existing-instruments.html
+        format: code
+        options:
+          language: html
+
+      - name: coszo-instruments
+        label: COSZO Instruments
+        type: file
+        path: coszo-instruments.html
+        format: code
+        options:
+          language: html
+
+      - name: absolute-seafloor-pressure
+        label: Absolute Seafloor Pressure
+        type: file
+        path: absolute-seafloor-pressure.html
+        format: code
+        options:
+          language: html
+
+      - name: early-warning
+        label: Early Warning
+        type: file
+        path: early-warning.html
+        format: code
+        options:
+          language: html
+
+      - name: data-products
+        label: Data Products
+        type: file
+        path: data-products.html
+        format: code
+        options:
+          language: html
+
+      - name: outreach
+        label: Outreach
+        type: file
+        path: outreach.html
+        format: code
+        options:
+          language: html
+
+      - name: research-experiences-for-undergraduates
+        label: Research Experiences for Undergraduates
+        type: file
+        path: research-experiences-for-undergraduates.html
+        format: code
+        options:
+          language: html
+
+      - name: early-career-workshop
+        label: Early Career Workshop
+        type: file
+        path: early-career-workshop.html
+        format: code
+        options:
+          language: html
+
+      - name: meetings
+        label: Meetings
+        type: file
+        path: meetings.html
+        format: code
+        options:
+          language: html
+
+      - name: future-opportunities
+        label: Future Opportunities
+        type: file
+        path: future-opportunities.html
+        format: code
+        options:
+          language: html
+
+      - name: partners
+        label: Partners
+        type: file
+        path: partners.html
+        format: code
+        options:
+          language: html
+
+      - name: people
+        label: People
+        type: file
+        path: people.html
+        format: code
+        options:
+          language: html
+
+      - name: contact
+        label: Contact
+        type: file
+        path: contact.html
+        format: code
+        options:
+          language: html
+
+      - name: feasibility-study
+        label: Feasibility Study
+        type: file
+        path: feasibility-study.html
+        format: code
+        options:
+          language: html
+
+  - name: styles
+    label: Stylesheet
+    type: file
+    path: styles.css
+    format: code
+    options:
+      language: css
